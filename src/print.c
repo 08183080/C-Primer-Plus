@@ -1,4 +1,5 @@
 #include <stdio.h>
+int dragon=8;
 int main(void)
 {
      int num;
